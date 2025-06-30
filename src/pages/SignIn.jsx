@@ -18,7 +18,7 @@ export default function SignIn() {
               left: "30px",
             }}
           >
-            <i className="bi bi-arrow-left me-2"></i> Back to Home screen
+            <i className="bi bi-arrow-left me-2"></i> Back to Home
           </Link>
 
           <div className="d-flex flex-column align-items-center w-100">
